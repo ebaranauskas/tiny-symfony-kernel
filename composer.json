@@ -1,0 +1,11 @@
+{
+    "name": "erikas/tiny-kernel",
+    "description": "Small kernel",
+    "type": "project",
+    "require": {
+        "symfony/http-kernel": "^5.1",
+        "symfony/routing": "^5.1"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
