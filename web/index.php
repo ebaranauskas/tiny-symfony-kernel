@@ -39,7 +39,7 @@ $dispatcher->addSubscriber(
     )
 );
 
-(new HttpKernel($dispatcher,new ControllerResolver()))
+(new HttpKernel($dispatcher, new ControllerResolver()))
     ->handle(Request::createFromGlobals())
     ->send()
 ;

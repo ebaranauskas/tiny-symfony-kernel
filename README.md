@@ -1,2 +1,2 @@
 # tiny-symfony-kernel
-Tiny Symfony kernel implementation for my experiments
+Tiny Symfony kernel usage example
